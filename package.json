@@ -1,0 +1,17 @@
+{
+  "name": "template-git",
+  "version": "0.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "shine",
+  "bin": {
+    "templateGit": "./bin/index.js"
+  },
+  "dependencies": {
+    "download-git-repo": "^1.0.2",
+    "chalk": "^2.4.1",
+    "co": "^4.6.0",
+    "commander": "^2.15.1",
+    "ora": "^2.1.0"
+  }
+}
